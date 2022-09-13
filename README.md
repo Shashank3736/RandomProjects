@@ -18,3 +18,13 @@ You can find out more about the Birthday Paradox at https://en.wikipedia.org/wik
 This program uses a multiline string as a bitmap, a 2D image with only two possible colors for each pixel, to determine how it should display a message from the user. In this bitmap, space characters represent an empty space, and all other characters are replaced by characters in the user’s message. The provided bitmap resembles a world map, but you can change this to any image you’d like. The binary simplicity of the space-or-message-characters system makes it good for beginners. Try experimenting with different messages to see what the results look like!
 
 [**Click here to see the project code.**](BitMapWorld/bitmapworld.py)
+
+## Blackjack
+Blackjack, also known as 21, is a card game where players try to get as close to 21 points as possible without going over. This program uses images drawn with text characters, called ASCII art. American Standard Code for Information Interchange (ASCII) is a mapping of text characters to numeric codes that computers used before Unicode replaced it. The playing cards in this program are an example of ASCII art:
+
+ ___   ___
+|A  | |10 |
+| ♣ | | ♦ |
+|__A| |_10|
+You can find other rules and the history of this card game at https://en.wikipedia.org/wiki/Blackjack.
+
